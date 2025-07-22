@@ -23,6 +23,10 @@
 # my_location = ...
 # my_hobby = ...
 # my_fun_fact = ...
+my_name = Hotor Romeo
+my_location = Accra Ghana 
+my_hobby = Listing to music 
+my_fun_fact = I like cracking jokes 
 
 
 
